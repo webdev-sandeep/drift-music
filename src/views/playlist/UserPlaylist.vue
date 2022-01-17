@@ -1,6 +1,6 @@
 <template>
   <div class="user-playlist">
-    <h3>My Playlist</h3>
+    <h1>My Playlist</h1>
     <ListView v-if="playlists" :playlists="playlists"/>
   </div>
   <router-link :to="{name:'CreatePlaylist'}" class="btn">Create a New Playlist </router-link>
