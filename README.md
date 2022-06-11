@@ -2,6 +2,9 @@
 
 This website is hosted on Netlify and the link is : [https://drift-music.netlify.app/](https://drift-music.netlify.app/)
 
+![Drift Music](https://i.imgur.com/1jJjlkZ.jpg "Drift Music")
+
+
 ## Project setup
 ```
 yarn install
