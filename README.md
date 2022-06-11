@@ -1,5 +1,7 @@
 # drift-music
 
+This website is hosted on Netlify and the link is : [https://drift-music.netlify.app/](https://drift-music.netlify.app/)
+
 ## Project setup
 ```
 yarn install
